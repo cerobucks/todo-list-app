@@ -6,7 +6,7 @@ Here is an example:</br>
 ## What I've learned.
 - I learned to use states in react.
 - I learned to pass data from a container to a component.
-- I learned to call functions through a component from container.
+- I learned to call functions from a container through a component.
 - I learned to use map & filter functions to add, update and remove items from an array.
 - I learned the diference between mutable and unmutable data changes.
 
